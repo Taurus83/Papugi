@@ -7,6 +7,6 @@ console.log(animalUpperCased);
 var textCharsAfter = text.replace('Papugi', animalUpperCased);
 console.log(textCharsAfter);
 
-var partOfText = textCharsAfter.slice(0,45)
+var partOfText = textCharsAfter.slice(0, textCharsAfter.length/2);
 
 console.log(partOfText);
