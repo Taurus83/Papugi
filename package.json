@@ -1,0 +1,27 @@
+{
+  "name": "kodilla-papugi",
+  "version": "1.0.0",
+  "description": "papugi i slonie",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taurus83/Papugi.git"
+  },
+  "keywords": [
+    "papugi"
+  ],
+  "author": "Piotr Rucinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taurus83/Papugi/issues"
+  },
+  "homepage": "https://github.com/Taurus83/Papugi#readme"
+}
